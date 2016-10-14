@@ -8,7 +8,9 @@
       "biography": "Matthew is a Xamarin MVP and Certified Xamarin Developer from Madison, WI. He founded his company Code Mill Technologies and started the Madison Mobile .Net Developers Group.  Matt regularly speaks on .Net and Xamarin development at user groups, code camps and conferences throughout the Midwest. Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese.",
       "image": "http://i.imgur.com/ASj60DP.jpg",
       "avatar": "http://i.imgur.com/ASj60DP.jpg",
-      "room": "Crick"  
+      "room": "Crick",
+      "lat": 34.012,
+      "lon": 135.123
     },
     {
       "end": "2016-04-28T16:15:00Z",
@@ -19,7 +21,9 @@
       "biography": "Josh Clark is the founder of Big Medium, a design agency specializing in connected devices, mobile experiences, and responsive web design. His clients include Samsung, Time Inc, TechCrunch, Entertainment Weekly, eBay, O’Reilly Media, and many others. Josh has written several books, including “Designing for Touch” (A Book Apart, 2015) and “Tapworthy: Designing Great iPhone Apps” (O’Reilly, 2010). He speaks around the world about what’s next for digital interfaces.\n",
       "image": "http://i.imgur.com/UPhZonl.jpg",
       "avatar": "http://i.imgur.com/UPhZonl.jpg",
-      "room": "Linnaeus"
+      "room": "Linnaeus",
+      "lat": 34.112,
+      "lon": 135.223
     },
     {
      
@@ -31,7 +35,9 @@
       "biography": "A robot-builder from an early age, Star has explored robotics and automation in electronics and software from MIT to Shenzhen. She previously worked on some of the first robots to demonstrate human emotional expressiveness in Cynthia Brezeal’s personal robotics lab. Her interest carried her into the aerial robotics world, exploring drone-based delivery through TacoCopter many years ahead of anyone else. Now residing in SF, she’s looking for ways that tech can advance and extend human capability.",
       "image": "http://i.imgur.com/t4DWNkf.jpg",
       "avatar": "http://i.imgur.com/t4DWNkf.jpg",
-      "room": "Watson"
+      "room": "Watson",
+      "lat": 34.312,
+      "lon": 135.423
     },
     {
       "end": "2016-04-27T20:15:00Z",
