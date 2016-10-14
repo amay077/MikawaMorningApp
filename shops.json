@@ -1,18 +1,5 @@
 [
     {
-      "end": "2016-04-27T18:00:00Z",
-      "start": "2016-04-27T17:15:00Z",
-      "abstract": "The new Apple TV has been released, and YOU can be one of the first developers to write apps for it. To make things even better, you can build these apps in C#! This session will introduce the basics of how to create a tvOS app with Xamarin, including: differences between tvOS and iOS APIs, TV user interface best practices, responding to user input, as well as the capabilities and limitations of building apps for a television. Grab some popcorn—this is going to be good!",
-      "title": "駅から好アクセス ＰＬＡＴでモーニング",
-      "presenter": "cafe PLAT Costa-Rica",
-      "biography": "Matthew is a Xamarin MVP and Certified Xamarin Developer from Madison, WI. He founded his company Code Mill Technologies and started the Madison Mobile .Net Developers Group.  Matt regularly speaks on .Net and Xamarin development at user groups, code camps and conferences throughout the Midwest. Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese.",
-      "image": "http://hmgs.jp/platcostarica/001.jpg",
-      "avatar": "http://hmgs.jp/platcostarica/001.jpg",
-      "room": "cafe PLAT Costa-Rica",
-      "lat": 34.012,
-      "lon": 135.123
-    },
-    {
       "end": "2016-04-28T16:15:00Z",
       "start": "2016-04-28T15:30:00Z",
       "abstract": "Touchscreens are everywhere now (even the desktop!) and this workshop with designer Josh Clark (author of \"Designing for Touch\") tells you what you need to know to make the most of them. Fingers and thumbs turn desktop design conventions on their head and the ergonomics of handheld devices demanding entirely new design patterns for both web and apps. It's no longer just how your pixels look, but also how they feel. This in-depth seminar takes a hands-on approach to touchscreen design with practical guidelines, rich examples, exercises, and new rules that bust \"settled\" conventions.",
