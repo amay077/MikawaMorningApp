@@ -102,5 +102,44 @@
       "link": "http://hmgs.jp/hizuke/",
       "lat": 34.8037079,
       "lon": 137.4381936
+    },
+    {
+      "start": "9:00",
+      "end": "11:00",
+      "price": "350円",
+      "abstract": "モーニングセットはドリンク代で、ドリンク＋ゆで玉子＋トースト＋サラダ(※変更あり）　スタッフは障がい者の家族や本人で、物品販売もどうぞ。",
+      "presenter": "喫茶 路面電車",
+      "room": "喫茶 路面電車",
+      "title": "路面電車の線路沿い あいトピアでひといき",
+      "image": "http://hmgs.jp/romendensya/001.jpg",
+      "link": "http://hmgs.jp/romendensya/",
+      "lat": 34.7659448,
+      "lon": 137.4035478
+    },
+    {
+      "start": "9:00",
+      "end": "11:00",
+      "price": "ドリンク代＋50円",
+      "abstract": "レトロな外観、 味わいある木調の内観。モーニングＡセットは、タマゴホットサンドorトースト､ドリンク､サラダ､デザート。 お手製シフォンケーキも人気。",
+      "presenter": "珈琲亭 こすたりか 東田店",
+      "room": "珈琲亭 こすたりか 東田店",
+      "title": "朝のひと時をごゆっくりお過ごし下さい",
+      "image": "http://hmgs.jp/costarica/001.jpg",
+      "link": "http://hmgs.jp/costarica/",
+      "lat": 34.7648203,
+      "lon": 137.4176052
+    },
+    {
+      "start": "7:30",
+      "end": "11:30",
+      "price": "ドリンク代＋200円",
+      "abstract": "注文を頂いてから焼き上げるので、暖かくて香ばしくて美味しいと人気のワッフルモーニング。トーストブランチやおにぎりモーニングなどもどうぞ。",
+      "presenter": "cafe Au Repos カフェ･オ･ラポ",
+      "room": "cafe Au Repos カフェ･オ･ラポ",
+      "title": "注文を頂いてから焼くワッフルモーニング",
+      "image": "http://hmgs.jp/aurepos/001.jpg",
+      "link": "http://hmgs.jp/aurepos/",
+      "lat": 34.7345071,
+      "lon": 137.4105131
     }
   ]
