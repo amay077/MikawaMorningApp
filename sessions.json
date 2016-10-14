@@ -1,25 +1,27 @@
-[
+  [
     {
       "title": "駅から好アクセス ＰＬＡＴでモーニング",
-      "shop": "cafe PLAT Costa-Rica",
+      "presenter": "cafe PLAT Costa-Rica",
       "abstract": "お好みのドリンクに、グリルサンド1/2がつきます。ドリンク代(260円～)のみです。「ランチ」には「ガレット」3種類。「グリルサンドランチ」もございます。",
       "end": "11:00",
       "start": "10:00",
       "price": "260円〜",
       "image": "http://hmgs.jp/platcostarica/001.jpg",
-      "link": "http://hmgs.jp/platcostarica/"
+      "avatar": "http://hmgs.jp/platcostarica/001.jpg",
+      "link": "http://hmgs.jp/platcostarica/",
       "lat": 34.760617,
       "lon": 137.3819759
     },
     {
       "title": "焼きたてパンなど自家製メニューがおいしい",
-      "shop": "パン茶家 わおん",
+      "presenter": "パン茶家 わおん",
       "abstract": "モーニングで、自家製焼き立てパンや自家製ヨーグルト（ジャムも自家製）などを味わえます。自家製パン販売も。豊橋駅西口徒歩5分。",
       "end": "11:00",
       "start": "8:00",
       "price": "ドリンク代＋200円",
       "image": "http://hmgs.jp/waon/001.jpg",
-      "link": "http://hmgs.jp/waon/"
+      "avatar": "http://hmgs.jp/waon/001.jpg",
+      "link": "http://hmgs.jp/waon/",
       "lat": 34.7600614,
       "lon": 137.3806038
     }
