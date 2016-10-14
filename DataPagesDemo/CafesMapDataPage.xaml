@@ -4,7 +4,7 @@
 	    xmlns:l="clr-namespace:DataPagesDemo"
 	    xmlns:p="clr-namespace:Xamarin.Forms.Pages;assembly=Xamarin.Forms.Pages"
 		x:Class="DataPagesDemo.CafesMapDataPage"
-		Title="Cafes"
+		Title="Cafes Map"
 		StyleClass="Events">
 
     <l:MapDataPage.DataSource>

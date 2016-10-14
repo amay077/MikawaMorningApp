@@ -12,7 +12,8 @@ namespace DataPagesDemo
 			InitializeComponent ();
 
 			//MainPage = new NavigationPage (new SessionDataPage ());
-			MainPage = new NavigationPage(new CafesMapDataPage());
+			//MainPage = new NavigationPage(new CafesMapDataPage());
+			MainPage = new NavigationPage(new StartupPage());
 
 		}
 	}

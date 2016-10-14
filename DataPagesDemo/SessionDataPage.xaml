@@ -3,27 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:p="clr-namespace:Xamarin.Forms.Pages;assembly=Xamarin.Forms.Pages"
              x:Class="DataPagesDemo.SessionDataPage"
-             Title="Sessions" StyleClass="Events">
+             Title="Cafes" StyleClass="Events">
 
     <p:ListDataPage.DataSource>
         <p:JsonDataSource Source="https://raw.githubusercontent.com/amay077/MikawaMorningApp/72d00940298648d6af066de389c7bb7b5cd95964/shops.json" />
     </p:ListDataPage.DataSource>
-
-    <!-- CUSTOM LISTITEM
-    <p:ListDataPage.DefaultItemTemplate>
-	    <DataTemplate>
-	        <ViewCell>
-	            <p:ListItemControl
-	                Title="{p:DataSourceBinding title}"
-	                Detail="{p:DataSourceBinding room}"
-					ImageSource="{p:DataSourceBinding image}"
-	                DataSource="{Binding Value}"
-	                HeightRequest="90"
-	            >
-	            </p:ListItemControl>
-	        </ViewCell>
-	    </DataTemplate>
-	</p:ListDataPage.DefaultItemTemplate>  -->
-
 
 </p:ListDataPage>

@@ -24,6 +24,10 @@ namespace DataPagesDemo
 		public MapDataPage()
 		{
 			InitializeComponent();
+
+			map.HasZoomEnabled = true;
+			map.HasScrollEnabled = true;
+			map.IsShowingUser = true;
 		}
 
 		protected override void OnPropertyChanged(string propertyName = null)

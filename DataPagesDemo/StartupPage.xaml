@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		x:Class="DataPagesDemo.StartupPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical">
+			<Label Text="東三河モーニングアプリ" HorizontalTextAlignment="Center" FontSize="25" Margin="0, 20, 0, 0" />
+			<Image x:Name="image2" />
+			<Image x:Name="image" />
+
+			<Button x:Name="buttonShops" Text="お店一覧" />
+			<Button x:Name="buttonMaps" Text="地図" />
+			
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
