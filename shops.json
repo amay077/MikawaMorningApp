@@ -76,5 +76,31 @@
       "link": "http://hmgs.jp/yuuyake/",
       "lat": 34.7735244,
       "lon": 137.4039426
+    },
+    {
+      "start": "8:30",
+      "end": "11:00",
+      "price": "350円",
+      "abstract": "ドリンク代のみで、ドリンク、サラダ、デザート、ゆで卵、タマゴサンド又はバタートーストと盛りだくさん！　日替りランチも、ボリューム満点です。",
+      "presenter": "喫茶しらかば",
+      "room": "喫茶しらかば",
+      "title": "モーニングもランチもボリューム満点",
+      "image": "http://hmgs.jp/shirakaba/001.jpg",
+      "link": "http://hmgs.jp/shirakaba/",
+      "lat": 34.7797338,
+      "lon": 137.3820031
+    },
+    {
+      "start": "9:00",
+      "end": "11:00",
+      "price": "580円",
+      "abstract": "トーストにつけて頂くバターは、何と10種類から選べます！　ボリュームたっぷりの「さわやかブランチ」や、スープにこだわったオムライスが好評です。",
+      "presenter": "Cafe＆Restaurant 日付変更線",
+      "room": "Cafe＆Restaurant 日付変更線",
+      "title": "10種類のバターも楽しみなモーニング",
+      "image": "http://hmgs.jp/hizuke/001.jpg",
+      "link": "http://hmgs.jp/hizuke/",
+      "lat": 34.8037079,
+      "lon": 137.4381936
     }
   ]
