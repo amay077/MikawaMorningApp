@@ -232,5 +232,18 @@
       "link": "http://hmgs.jp/icyou-honten/",
       "lat": 34.7387778,
       "lon": 137.3763021
+    },
+    {
+      "start": "8:30",
+      "end": "14:00",
+      "price": "ドリンク代+100円",
+      "abstract": "内容たっぷりで、アイスクリームまで付いているモーニング。愛知大学の近くで、ランチなどメニューも、お財布に嬉しいお手頃価格で頑張っています。",
+      "presenter": "喫茶 カチカチ山",
+      "room": "喫茶 カチカチ山",
+      "title": "愛知大学の学生さん御用達のお店",
+      "image": "http://hmgs.jp/kachikachiyama/001.jpg",
+      "link": "http://hmgs.jp/kachikachiyama/",
+      "lat": 34.7387778,
+      "lon": 137.3763021
     }
   ]
