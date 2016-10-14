@@ -7,7 +7,6 @@
       "presenter": "cafe PLAT Costa-Rica",
       "room": "cafe PLAT Costa-Rica",
       "title": "駅から好アクセス ＰＬＡＴでモーニング",
-      "avatar": "http://hmgs.jp/platcostarica/001.jpg",
       "image": "http://hmgs.jp/platcostarica/001.jpg",
       "link": "http://hmgs.jp/platcostarica/",
       "lat": 34.760617,
@@ -21,10 +20,35 @@
       "presenter": "パン茶家 わおん",
       "room": "パン茶家 わおん",
       "title": "焼きたてパンなど自家製メニューがおいしい",
-      "avatar": "http://hmgs.jp/waon/001.jpg",
       "image": "http://hmgs.jp/waon/001.jpg",
       "link": "http://hmgs.jp/waon/",
       "lat": 34.7600614,
       "lon": 137.3806038
+    },
+    {
+      "start": "8:30",
+      "end": "15:00",
+      "price": "500円",
+      "abstract": "ブランチセットなどのメニューをどうぞ。豊橋名産･うずらの卵 食べ放題！　障がいのある仲間達と手作り。童里夢畑の野菜（基本無農薬）も使用。",
+      "presenter": "cafe 奏(かなで)",
+      "room": "cafe 奏(かなで)",
+      "title": "のんびりゆったり石巻山を眺めて",
+      "image": "http://hmgs.jp/kanade/001.jpg",
+      "link": "http://hmgs.jp/kanade/",
+      "lat": 34.7835299,
+      "lon": 137.43985
+    },
+    {
+      "start": "8:00",
+      "end": "11:30",
+      "price": "400円",
+      "abstract": "のんびり、くつろいでいただける場所をご提供。お食事や貸ギャラリー、囲碁･将棋などでもご利用頂けます。日曜朝市や歌声喫茶など各種イベントも実施中。",
+      "presenter": "喫茶＆ギャラリー 喫茶 早川",
+      "room": "喫茶＆ギャラリー 喫茶 早川",
+      "title": "古民家風のあたたかい雰囲気",
+      "image": "http://hmgs.jp/hayakawa/001.jpg",
+      "link": "http://hmgs.jp/hayakawa/",
+      "lat": 34.7976864,
+      "lon": 137.4360552
     }
   ]
