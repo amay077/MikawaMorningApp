@@ -131,6 +131,12 @@
     <Reference Include="Xamarin.Forms.GoogleMaps.iOS">
       <HintPath>..\packages\Xamarin.Forms.GoogleMaps.1.6.1-beta1\lib\Xamarin.iOS10\Xamarin.Forms.GoogleMaps.iOS.dll</HintPath>
     </Reference>
+    <Reference Include="Plugin.ExternalMaps.Abstractions">
+      <HintPath>..\packages\Xam.Plugin.ExternalMaps.3.0.0\lib\Xamarin.iOS10\Plugin.ExternalMaps.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.ExternalMaps">
+      <HintPath>..\packages\Xam.Plugin.ExternalMaps.3.0.0\lib\Xamarin.iOS10\Plugin.ExternalMaps.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataPagesDemo\DataPagesDemo.csproj">
@@ -164,6 +170,9 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="coffee.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />

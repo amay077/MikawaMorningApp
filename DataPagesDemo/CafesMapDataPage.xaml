@@ -8,6 +8,6 @@
 		StyleClass="Events">
 
     <l:MapDataPage.DataSource>
-        <p:JsonDataSource Source="https://raw.githubusercontent.com/amay077/MikawaMorningApp/master/sessions.json" />
+        <p:JsonDataSource Source="https://raw.githubusercontent.com/amay077/MikawaMorningApp/72d00940298648d6af066de389c7bb7b5cd95964/shops.json" />
     </l:MapDataPage.DataSource>
 </l:MapDataPage>

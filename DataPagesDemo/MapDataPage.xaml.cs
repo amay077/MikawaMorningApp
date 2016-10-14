@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using Plugin.ExternalMaps;
+using Plugin.ExternalMaps.Abstractions;
 using Xamarin.Forms;
 using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms.Pages;
@@ -39,24 +40,30 @@ namespace DataPagesDemo
 		{
 			var dataSource = DataSource as JsonDataSource;
 			await dataSource.ParseJson();
+			var positions = new List<Position>();
 			foreach (var dataItem in DataSource.Data)
 			{
 				try
 				{
 					var item = dataItem.Value as IDataSource;
 					var title = item["title"].ToString();
-					var room = item["room"].ToString();
+					var room = item["presenter"].ToString();
 					var lat = (float)item["lat"];
 					var lon = (float)item["lon"];
 
+					positions.Add(new Position(lat, lon));
+
 					var pin = new Pin
 					{
+						Icon = BitmapDescriptorFactory.FromBundle("coffee"),
 						Type = PinType.Place,
-						Label = title,
-						Address = room,
+						Label = room,
+						Address = title,
 						Position = new Position(lat, lon),
 						Tag = dataItem
 					};
+
+					pin.Clicked += Pin_Clicked;
 
 					map.Pins.Add(pin);
 				}
@@ -66,8 +73,17 @@ namespace DataPagesDemo
 				}
 			}
 
-			map.SelectedPinChanged += Map_SelectedPinChanged;
+			map.MoveToRegion(MapSpan.FromPositions(positions), true);
+		}
 
+		async void Pin_Clicked(object sender, EventArgs e)
+		{
+			var pin = sender as Pin;
+
+			if (await DisplayAlert(pin.Label, "ここへ行く", "GO!", "No"))
+			{
+				await CrossExternalMaps.Current.NavigateTo(pin.Label, pin.Position.Latitude, pin.Position.Longitude, NavigationType.Default);
+			}
 		}
 
 		async void Map_SelectedPinChanged(object sender, SelectedPinChangedEventArgs e)
