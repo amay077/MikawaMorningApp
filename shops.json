@@ -9,19 +9,22 @@
       "title": "駅から好アクセス ＰＬＡＴでモーニング",
       "avatar": "http://hmgs.jp/platcostarica/001.jpg",
       "image": "http://hmgs.jp/platcostarica/001.jpg",
-      "lat": 34.012,
-      "lon": 135.123
+      "link": "http://hmgs.jp/platcostarica/",
+      "lat": 34.760617,
+      "lon": 137.3819759
     },
     {
-      "start": "2016-04-28T15:30:00Z",
-      "end": "2016-04-28T16:15:00Z",
-      "abstract": "Touchscreens are everywhere now (even the desktop!) and this workshop with designer Josh Clark (author of \"Designing for Touch\") tells you what you need to know to make the most of them. Fingers and thumbs turn desktop design conventions on their head and the ergonomics of handheld devices demanding entirely new design patterns for both web and apps. It's no longer just how your pixels look, but also how they feel. This in-depth seminar takes a hands-on approach to touchscreen design with practical guidelines, rich examples, exercises, and new rules that bust \"settled\" conventions.",
-      "title": "Designing for Touch Continued",
-      "presenter": "Josh Clark",
-      "image": "http://i.imgur.com/UPhZonl.jpg",
-      "avatar": "http://i.imgur.com/UPhZonl.jpg",
-      "room": "Linnaeus",
-      "lat": 34.112,
-      "lon": 135.223
+      "start": "8:00",
+      "end": "11:00",
+      "price": "ドリンク代＋200円",
+      "abstract": "モーニングで、自家製焼き立てパンや自家製ヨーグルト（ジャムも自家製）などを味わえます。自家製パン販売も。豊橋駅西口徒歩5分。",
+      "presenter": "パン茶家 わおん",
+      "room": "パン茶家 わおん",
+      "title": "焼きたてパンなど自家製メニューがおいしい",
+      "avatar": "http://hmgs.jp/waon/001.jpg",
+      "image": "http://hmgs.jp/waon/001.jpg",
+      "link": "http://hmgs.jp/waon/",
+      "lat": 34.7600614,
+      "lon": 137.3806038
     }
   ]
