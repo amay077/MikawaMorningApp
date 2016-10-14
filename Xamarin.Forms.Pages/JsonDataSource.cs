@@ -109,7 +109,7 @@ namespace Xamarin.Forms.Pages
 			}
 		}
 
-		async Task ParseJson()
+		public async Task ParseJson()
 		{
 			_initialized = true;
 

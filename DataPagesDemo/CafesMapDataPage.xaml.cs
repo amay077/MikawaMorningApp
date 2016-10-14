@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace DataPagesDemo
 {
-	public partial class CafesMapDataPage : ContentPage
+	public partial class CafesMapDataPage : MapDataPage
 	{
 		public CafesMapDataPage()
 		{

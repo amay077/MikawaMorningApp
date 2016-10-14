@@ -6,10 +6,10 @@
              Title="Sessions" StyleClass="Events">
 
     <p:ListDataPage.DataSource>
-        <p:JsonDataSource Source="http://demo3143189.mockable.io/sessions" />
+        <p:JsonDataSource Source="https://raw.githubusercontent.com/amay077/MikawaMorningApp/72d00940298648d6af066de389c7bb7b5cd95964/shops.json" />
     </p:ListDataPage.DataSource>
 
-    <!-- CUSTOM LISTITEM -->
+    <!-- CUSTOM LISTITEM
     <p:ListDataPage.DefaultItemTemplate>
 	    <DataTemplate>
 	        <ViewCell>
@@ -23,7 +23,7 @@
 	            </p:ListItemControl>
 	        </ViewCell>
 	    </DataTemplate>
-	</p:ListDataPage.DefaultItemTemplate>
+	</p:ListDataPage.DefaultItemTemplate>  -->
 
 
 </p:ListDataPage>
