@@ -13,7 +13,7 @@ namespace DataPagesDemo.iOS
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init ();
-
+			Xamarin.FormsGoogleMaps.Init("AIzaSyD81Hy29p5w17mYZ6tVeoedIXYJlRp1_Mg");
 			LoadApplication (new App ());
 
 			var x = typeof(Xamarin.Forms.Themes.DarkThemeResources);
