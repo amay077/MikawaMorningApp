@@ -2,7 +2,7 @@
 　　
 　　
 　　
-* JXUGC #17　　
+* JXUGC #17 お前の Xamarin アプリを見せてみろ！
 * Oct 15, 2016 @amay077
 
 ---
@@ -131,7 +131,21 @@ http://urbandata-challenge.jp/
 12/1:私、12/2:田淵さん、12/x:えのさん、12/25:ちょまどさん
 
 ---
+
+## PR ばっかだけど、まとめ
+
+* DataPages アプリをでっち上げるにはよい
+* けど実案件には使えない（ソースはよ）
+* Xamarin.Forms.GoogleMaps よろ
+* モーニング食べに来てね(ただし前泊が必要)
+
+アプリのソース
+
+https://github.com/amay077/MikawaMorningApp
+
+---
+
 # 　　
 　　
-# [fit]PR ばっかだけど、おわり 
+# [fit]ありがとうございました
 
